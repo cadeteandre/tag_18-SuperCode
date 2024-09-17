@@ -1,0 +1,14 @@
+body {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}
+
+#range {
+    width: 400px;
+}
+
+p {
+    font-weight: 700;
+}
